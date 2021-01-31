@@ -1,5 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import './assets/vendors/bootstrap/dist/css/bootstrap.min.css';
+import './assets/vendors/font-awesome/css/font-awesome.min.css';
+import './assets/vendors/themify-icons/css/themify-icons.css';
+
+import './assets/sass/main.scss';
+
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
